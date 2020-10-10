@@ -1,4 +1,4 @@
-package com.example.prueba_final_kotlin_01102020
+package com.example.prueba_final_kotlin_01102020.Model.Remoto
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
@@ -18,20 +18,7 @@ fun getRetrofitClient (): ApiRaMInterface {
 
 }
 
-
-    }
-
-
-
-
-
-
-
-
-
-
-
-
+ }
 
 
 }

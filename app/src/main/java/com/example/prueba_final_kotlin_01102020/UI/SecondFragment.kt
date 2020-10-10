@@ -1,4 +1,4 @@
-package com.example.prueba_final_kotlin_01102020
+package com.example.prueba_final_kotlin_01102020.UI
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.navigation.fragment.findNavController
+import com.example.prueba_final_kotlin_01102020.R
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
